@@ -1,0 +1,26 @@
+External style sheet (aplica a formatação em outro arquivo)
+Internal style sheet (aplica a formatação direto no código)
+Inline style (aplica a formatação direto no elemento)
+
+ID: É um identificador que só pode ser usado uma vez.
+
+Class: Também é um identificador, todavia pode ser usado diversas vezes.
+
+Div: Vem da palavra divisão, ou seja uma divisão dentro do site. É um 
+elemento tipo block, deixa os itens um em baixo do outro.
+
+Span: É um elemento Inline, agrupa os itens lado a lado, recomendada para 
+mudar textos genéricos.
+
+CSS Borders
+https://www.w3schools.com/css/css_border.asp
+
+Cores HTML 
+https://html-color-codes.info/Codigos-de-Cores-HTML/
+
+Tipos de fontes 
+https://www.w3schools.com/css/css_font.asp
+
+Fontes seguras para se usar
+https://www.w3schools.com/cssref/css_websafe_fonts.asp
+
