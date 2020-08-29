@@ -1,13 +1,17 @@
 * {
     text-decoration: none;
-    font: 16px arial, Helvetica, sans-serif;
 
 }
 
 
 body {
-    background: #c2c2b1 url('/img/anna/fundo.png');
+    background: #d2d2c1 url('/img/anna/fundo.png');
+    font: 16px arial, Helvetica, sans-serif;
+}
 
+h1{
+    color: #828271;
+    font-size: 1.2em;
 }
 
 a {
@@ -25,20 +29,17 @@ a {
     padding: 18px;
 }
 
-#fundo-2 {
-    background-color: #e8e8d9;
-    padding: 10px;
+#conteudo {
+	background: #e8e8d9;
+	padding: 10px;
 }
 
-.centralizar{
+#rodape{
     text-align: center;
 }
 
-.titulo {
-    color: rgb(119, 106, 81);
+.anna-img{
+    border: 10px solid #c3c3ae;
+    
 }
 
-.anna-img img {
-    border: 10px solid rgb(214, 191, 147);
-    margin-left: 10px;
-}
