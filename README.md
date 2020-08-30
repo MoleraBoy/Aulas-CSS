@@ -4,6 +4,7 @@ Curso Desenvolvimento Web realizado pela Udemy
 ## Tarefas
 
 O controle das tarefas desse projeto será realizado no Gitub
+CSS Iniciante concluído
 
 ## Icones
 
@@ -12,3 +13,4 @@ O controle das tarefas desse projeto será realizado no Gitub
 :beetle: correção de bug
 :checkered_flag: release
 :information_desk_person: anotações
+
