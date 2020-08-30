@@ -1,0 +1,29 @@
+body{
+    background: cornflowerblue;
+}
+
+a {
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+/* links visitados e não visitados */
+
+a:link, a:active {
+    color: cyan;
+}
+
+/* passar o cursor sobre o link */
+
+a:hover {
+    color: cadetblue;
+    background: chartreuse;
+}
+
+/* links ativos, quando clicado */
+
+a:active {
+    color: rgb(45, 45, 161);
+}
+
+/* importante manter essa ordem */

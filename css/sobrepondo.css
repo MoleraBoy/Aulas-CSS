@@ -1,0 +1,30 @@
+.conteudo-1 {
+    border: 1px solid red;
+    background: orangered;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    z-index: 0;
+}
+
+.conteudo-2 {
+    border: 1px solid red;
+    background: greenyellow;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 80px;
+    left: 80px;
+    z-index: 1;
+}
+
+.conteudo-3 {
+    border: 1px solid red;
+    background: yellow;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 160px;
+    left: 160px;
+    z-index: 2;
+}

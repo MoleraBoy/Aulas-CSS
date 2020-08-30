@@ -1,14 +1,26 @@
+#principal{
+    border: 5px solid teal;
+    background-color: blueviolet;
+}
+
 .conteudo {
     background: blue;
     border: 1px solid gray;
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 10px;
 }
 
-.conteudo1 {
-    background: blue;
+/* .conteudo1 {   
+    background: teal;
     border: 1px solid gray;
-    width: 150px;
-    height: 150px;
-    float: ;
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 10px;
+}*/
+
+.clear{
+    clear: both;
 }

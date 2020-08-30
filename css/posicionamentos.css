@@ -1,0 +1,43 @@
+body {
+    background: rgb(179, 158, 179);
+    position: relative;
+}
+
+
+p {
+    width: 300px;
+}
+
+.relative {
+    border: 1px solid red;
+    /* é calculada em relação a posição inicial do elemento */
+    position: relative;
+    /* top, right, bottom e left */
+    top: 0px;
+    left: 0px;
+}
+
+.absolute {
+    border: 1px solid red;
+    /* posição absoluta é calculada em relação ao container */
+    position: absolute;
+    top: 80px;
+    right: 80px;
+
+}
+
+.fixed {
+    border: 1px solid red;
+    /* é calculado em relação a janela do seu navegador */
+    position: fixed;
+    background: blanchedalmond;
+    top: 0px;
+    left: 10px;
+}
+
+#container {
+    background: rgb(34, 170, 170);
+    width: 800px;
+    margin: 10px auto;
+    padding: 10px;
+}
